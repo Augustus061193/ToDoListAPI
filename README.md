@@ -2,8 +2,12 @@ ToDoListAPI
 ===========
 
 This is a REST API for a simple ToDo List.
-
 This project is done using SLIM PHP Micro Framework+ Apache +PHP + MySQL
+
+Configuration
+-------------
+Database: "db_dmp/to_do_list.sql"
+MySQL-PHP connection: "include/config.php"
 
 Request
 --------
