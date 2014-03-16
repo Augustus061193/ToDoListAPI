@@ -6,8 +6,13 @@ This project is done using SLIM PHP Micro Framework+ Apache +PHP + MySQL
 
 Configuration
 -------------
-Database: "db_dmp/to_do_list.sql"
-MySQL-PHP connection: "include/config.php"
+Database: "db_dmp/to_do_list.sql"<br>
+MySQL-PHP connection: "include/config.php"<br>
+
+Testing
+-------
+Chrome:  Advanced REST client extension
+Firefox: REST Easy extension
 
 Request
 --------
